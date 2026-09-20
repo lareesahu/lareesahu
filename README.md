@@ -3,6 +3,8 @@
 I ship working products end to end with AI agents as the engineering layer:
 strategy → brief → build → deploy → verification. Based in Hangzhou, China.
 
+**Portfolio — every product below, in one page:** https://lareesahu.github.io/lareesa-hu/
+
 ## Live
 
 | Product | What it is | Live |
