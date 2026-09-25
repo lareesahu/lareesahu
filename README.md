@@ -25,7 +25,7 @@ judgement, the brand, and the outcome — including the parts nobody enjoys, lik
 verifying that what shipped is what was asked for.
 
 Most of the code behind the links above lives in private repositories. The live
-products are the deliverable, and every one of them is running right now.
+products are the deliverable. Public proof is linked where available; anything internal is labelled as an internal system rather than a live product.
 
 ## Public code
 
